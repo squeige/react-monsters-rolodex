@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/squeige/react-monsters-rolodex/static/css/main.526f33f8.chunk.css",
-    "main.js": "/squeige/react-monsters-rolodex/static/js/main.dba8c9bf.chunk.js",
-    "main.js.map": "/squeige/react-monsters-rolodex/static/js/main.dba8c9bf.chunk.js.map",
-    "runtime~main.js": "/squeige/react-monsters-rolodex/static/js/runtime~main.e297d9d5.js",
-    "runtime~main.js.map": "/squeige/react-monsters-rolodex/static/js/runtime~main.e297d9d5.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/squeige/react-monsters-rolodex/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/squeige/react-monsters-rolodex/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/squeige/react-monsters-rolodex/index.html",
-    "precache-manifest.d23cf0125e5158f5f9a090b462acf891.js": "/squeige/react-monsters-rolodex/precache-manifest.d23cf0125e5158f5f9a090b462acf891.js",
-    "service-worker.js": "/squeige/react-monsters-rolodex/service-worker.js",
-    "static/css/main.526f33f8.chunk.css.map": "/squeige/react-monsters-rolodex/static/css/main.526f33f8.chunk.css.map"
+    "main.css": "/react-monsters-rolodex/static/css/main.526f33f8.chunk.css",
+    "main.js": "/react-monsters-rolodex/static/js/main.6fe740d9.chunk.js",
+    "main.js.map": "/react-monsters-rolodex/static/js/main.6fe740d9.chunk.js.map",
+    "runtime~main.js": "/react-monsters-rolodex/static/js/runtime~main.2a38a34c.js",
+    "runtime~main.js.map": "/react-monsters-rolodex/static/js/runtime~main.2a38a34c.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/react-monsters-rolodex/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/react-monsters-rolodex/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/react-monsters-rolodex/index.html",
+    "precache-manifest.a88ebf171fda162adb678756f27d3e06.js": "/react-monsters-rolodex/precache-manifest.a88ebf171fda162adb678756f27d3e06.js",
+    "service-worker.js": "/react-monsters-rolodex/service-worker.js",
+    "static/css/main.526f33f8.chunk.css.map": "/react-monsters-rolodex/static/css/main.526f33f8.chunk.css.map"
   }
 }
