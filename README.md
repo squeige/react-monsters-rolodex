@@ -10,11 +10,6 @@ Live version hosted at https://squeige.github.io/react-monsters-rolodex/
 
 React, Html, SCSS
 
-### Installing
-
-% git clone [git@github.com:squeige/react-portfolio.git](https://github.com/squeige/react-monsters-rolodex.git)
-
-
 
 ## Built With...
 
